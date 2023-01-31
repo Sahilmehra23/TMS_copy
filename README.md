@@ -2,6 +2,8 @@
 
 ## Tech used
 
+
+
 ```
 * Frontend : React & Redux
 * Backend : Django
